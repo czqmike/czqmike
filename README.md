@@ -1,5 +1,5 @@
 ### Hi there 👋
-If you are interested in me and want to know more about me, welcome to me [blog](czqmike-server.cn) :)
+If you are interested in me and want to know more about me, welcome to me [blog](http://czqmike-server.cn/) :)
 <!--
 **czqmike/czqmike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
