@@ -1,8 +1,8 @@
 ### Hi there 👋
 🌱 I’m currently learning Nature Language Processing (NLP), especailly in **Relation Extraction** (RE) for my master degree.  
-I also implemented a **multi-fish recognization and tracking** system using `Faster-RCNN` and `Simple Online And Realtime Tracking` (SORT).  
-It works well on my poor and old computer with NVIDIA 950M. 😄  
-If you are interested to me and want to know more about me, welcome to me [blog](http://czqmike-server.cn/) :)
+⚡ I also implemented a multi-fish recognization and tracking system that you could discover your favorate fishes on the **SURFACE** of your fish boal using `Faster-RCNN` and `Simple Online And Realtime Tracking` (SORT).  
+😄 It works well on my poor and old computer with NVIDIA 950M.   
+💬 If you are interested to me and want to know more about me, welcome to me [blog](http://czqmike-server.cn/) or send messages to me:)
 <!--
 **czqmike/czqmike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
